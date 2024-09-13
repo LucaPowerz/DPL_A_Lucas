@@ -12,7 +12,10 @@ git push origin main
 
 Ahora creamos un archivo .gitignore:
 Nano .gitignore, y escribimos dentro de el dos lineas incluyendo en la primera el documento "privado.txt" y en la segunda la carpeta "/privada"
+
+
 <img src="2.png">
+
 
 Añadimos el fichero 1.txt:
 Git add 1.txt
