@@ -3,3 +3,6 @@ https://github.com/LucaPowerz/DPL_A_Lucas.git
 
 Crear un primer commit:
 git commit -m "Commit Inicial"
+
+Subir cambios a repositorio remoto:
+git push origin main
