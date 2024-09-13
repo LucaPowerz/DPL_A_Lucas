@@ -1,5 +1,5 @@
 Clonar repositorio en local:
-https://github.com/LucaPowerz/DPL_A_Lucas.git
+git clone https://github.com/LucaPowerz/DPL_A_Lucas.git
 
 
 Creamos un documento tarea1_1.md.
@@ -30,6 +30,7 @@ Git tag v0.1
 
 
 Subimos todo:
+Hacemos primero un git upull y luego
 Git push origin
 
 
