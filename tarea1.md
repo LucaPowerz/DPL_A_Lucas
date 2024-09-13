@@ -30,7 +30,7 @@ Git tag v0.1
 
 
 Subimos todo:
-Hacemos primero un git upull y luego
+Hacemos primero un git pull y luego
 Git push origin
 
 
