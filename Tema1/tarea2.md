@@ -31,3 +31,5 @@ Por último listamos la ramas:
 
 Ahora hacemos un git log para verificar que todo ha ocurrido como queriamos:
 <img src="1.png">
+
+Por último creamos una organización:
