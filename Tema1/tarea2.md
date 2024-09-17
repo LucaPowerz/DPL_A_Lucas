@@ -33,3 +33,6 @@ Ahora hacemos un git log para verificar que todo ha ocurrido como queriamos:
 <img src="1.png">
 
 Por último creamos una organización:
+<img src="2.png">
+<img src="3.png">
+<img src="4.png">
