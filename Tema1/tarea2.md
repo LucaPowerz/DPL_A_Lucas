@@ -30,4 +30,4 @@ Por último listamos la ramas:
     git branch --merged Sería la main
 
 Ahora hacemos un git log para verificar que todo ha ocurrido como queriamos:
-
+<img src="1.png">
