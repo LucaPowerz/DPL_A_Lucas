@@ -2,9 +2,9 @@
 ## Pasos
 1. Creamos una cuenta en GitHub
 2. Creamos un repositorio llamado "banco" para trabajar
-   <img source="1.png">
+   <img src="1.png">
 4. Clonamos el repositorio "banco" con "git clone" con la ruta al repositorio https://github.com/LucaPowerz/banco
-   <img source="2.png">
+   <img src="2.png">
 6. Ponemos el contenido en el repositorio clonado y lo añadimos todo con "git add ."
 7. Ahora en otra carpeta creamos un proyecto llamado "banco"
 8. Guardamos todo con un git commit -m "TareaVisualGitHub"
