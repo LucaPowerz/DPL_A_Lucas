@@ -7,7 +7,7 @@ Función UPDATE:
     $stmt->bind_param("si", $nuevoNombre, $id);
     $stmt->execute()
 ```
-Podemos comprobar que ha funcionado revisandolo desde la base de datos, ahora en vez de Alex, hay un usuario llamado Luca.
+Podemos comprobar que ha funcionado revisandolo desde la base de datos, ahora en vez de Marco, hay un usuario llamado Luca.
 <img src="1.png">
 
 Función DELETE:
